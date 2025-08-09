@@ -1,0 +1,1 @@
+This template project shows an example setup for a developer on the Sui Discord.

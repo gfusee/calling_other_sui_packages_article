@@ -1,0 +1,13 @@
+[package]
+name = "sig_verify"
+edition = "2024.beta"
+published-at = "0xb6667b1cb613b0b0edb5b1c0459b118e62cae9d04545ce5d30afaec5a5217f85"
+
+[dependencies]
+
+[addresses]
+sig_verify = "0xb6667b1cb613b0b0edb5b1c0459b118e62cae9d04545ce5d30afaec5a5217f85"
+
+[dev-dependencies]
+
+[dev-addresses]
