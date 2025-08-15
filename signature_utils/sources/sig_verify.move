@@ -1,4 +1,4 @@
-module sig_verify::sig_verify;
+module signature_utils::sig_verify;
 
 public native fun verify_personal_message_signature(
     message: vector<u8>,
